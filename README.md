@@ -24,7 +24,7 @@ whether it is a car or a plane, to a qualified driver or pilot, so that planes m
 - Print the content of the array using the map function.
 
 #### Solution:
-- [Solution]([1#satr_102_oop.js](https://github.com/samuadda/JavaScript-Challenges/blob/main/1%23satr_102_oop.js)
+- [Solution](https://github.com/samuadda/JavaScript-Challenges/blob/main/1%23satr_102_oop.js](https://github.com/samuadda/JavaScript-Challenges/blob/main/1%23satr_102_oop.js)
 
 
 ### Challenge 2: Challenge Title
