@@ -4,7 +4,7 @@ Welcome to my JavaScript challenges repository. Here, you'll find solutions to v
 
 ## Challenges
 
-### Challenge 1: Challenge Title
+### Challenge 1: OOP
 
 A transportation company wants to assign its cars and planes to a number of drivers or pilots. Therefore, the idea of the application is to help them assign the vehicle, 
 whether it is a car or a plane, to a qualified driver or pilot, so that planes must be assigned to a pilot and cars must be assigned to a driver.
@@ -27,8 +27,8 @@ whether it is a car or a plane, to a qualified driver or pilot, so that planes m
 - [Solution1](https://github.com/samuadda/JavaScript-Challenges/blob/main/1%23satr_102_oop.js)
 
 
-### Challenge 2: Challenge Title
-
+### Challenge 2: Reverse letter case
+Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa, and then returns a value of type string.
 ...
 
 
