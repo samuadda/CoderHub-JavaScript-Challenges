@@ -39,7 +39,7 @@ Write a function that receives a string value. The function returns the number o
 
 ---
 
-### 05- Logical multiplication gate [Solution]()
+### 05- Logical multiplication gate [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/05_Logical_multiplication_gate.js)
 
 ##### Challenge Description
 
@@ -47,7 +47,7 @@ Write a function that accepts two boolean variables. The function performs an AN
 
 ---
 
-### 06- Converts hours to minutes [Solution]()
+### 06- Converts hours to minutes [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/06_Converts_hours_to_minutes%20.js)
 
 ##### Challenge Description
 
@@ -55,7 +55,7 @@ Write a function that receives a positive integer representing the number of hou
 
 ---
 
-### 07- Type of entered number [Solution]()
+### 07- Type of entered number [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/07_Type_of_entered_number.js)
 
 ##### Challenge Description
 
@@ -63,7 +63,7 @@ Write a function that receives an integer. The function returns the value odd if
 
 ---
 
-### 08- Date of birth [Solution]()
+### 08- Date of birth [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/08_date_of_birth.js)
 
 ##### Challenge Description
 
@@ -77,7 +77,7 @@ Write a function that receives a date and time in the form of a string. The func
 
 ---
 
-### 09- Post comma calculation [Solution]()
+### 09- Post comma calculation [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/09_Post_comma_calculation.js)
 
 ##### Challenge Description
 
@@ -85,7 +85,7 @@ Write a function that receives a string value that is a decimal or integer. The 
 
 ---
 
-### 10- Percentage conversion [Solution]()
+### 10- Percentage conversion [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/10_Percentage_conversion.js)
 
 ##### Challenge Description
 
@@ -93,7 +93,7 @@ Write a function that receives a string value representing a percentage. The fun
 
 ---
 
-### 11- Square area [Solution]()
+### 11- Square area [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/11_square_area.js)
 
 ##### Challenge Description
 
@@ -101,7 +101,7 @@ Write a function that receives an integer that represents the side length of the
 
 ---
 
-### 12- Duplicated elements in array [Solution]()
+### 12- Duplicated elements in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/12_Duplicated_elements_in_array.js)
 
 ##### Challenge Description
 
