@@ -109,7 +109,7 @@ Write a function that receives an array of type integer. The function returns si
 
 ---
 
-### 13- Collect and reverse words [Solution]()
+### 13- Collect and reverse words [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/13_Collect_and_reverse_words.js)
 
 ##### Challenge Description
 
@@ -117,14 +117,14 @@ Write a function that receives two string values. The function combines the two 
 
 ---
 
-### 14- Add word in text [Solution]()
+### 14- Add word in text [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/14_Add_word_in_text.js)
 
 ##### Challenge Description
 
 Write a function that receives two values, the first is an integer and the second is a string. The function adds the word Hi or Bye to the entered name so that Hi = 1 and Bye = 0.
 ---
 
-### 15- Verify text in array [Solution]()
+### 15- Verify text in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/15_Verify_text_in_array.js)
 
 ##### Challenge Description
 
@@ -132,7 +132,7 @@ Write a function that receives an array of type string. The function checks for 
 
 ---
 
-### 16- Serial combination [Solution]()
+### 16- Serial combination [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/16_Serial_combination.js)
 
 ##### Challenge Description
 
@@ -140,7 +140,7 @@ Write a function that receives an integer. The function adds all numbers from 1 
 
 ---
 
-### 17- Sum of the two lowest numbers in array [Solution]()
+### 17- Sum of the two lowest numbers in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/17_sum_lowest_nums_array.js)
 
 ##### Challenge Description
 
@@ -148,7 +148,7 @@ Write a function that receives an array of type integer. The function sums the t
 
 ---
 
-### 18- Type of input [Solution]()
+### 18- Type of input [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/18_type_of_input.js)
 
 ##### Challenge Description
 
