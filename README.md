@@ -109,29 +109,50 @@ Write a function that receives an array of type integer. The function returns si
 
 ---
 
-### 1- rectangle area [Solution]()
+### 13- Collect and reverse words [Solution]()
 
 ##### Challenge Description
 
----
-
-### 1- rectangle area [Solution]()
+Write a function that receives two string values. The function combines the two values as a single value separated by a comma and reverses them, so that the second value is before the comma, and the first value is after the comma.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 14- Add word in text [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two values, the first is an integer and the second is a string. The function adds the word Hi or Bye to the entered name so that Hi = 1 and Bye = 0.
+---
+
+### 15- Verify text in array [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of type string. The function checks for similar values within an array, returning true if the values are equal and false otherwise.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 16- Serial combination [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an integer. The function adds all numbers from 1 to the number passed in and returns the result.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 17- Sum of the two lowest numbers in array [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of type integer. The function sums the two lowest numbers in the array and returns the result.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 18- Type of input [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a string value. The function determines the type of the value inside the text value, whether it is string, integer, or float, and returns the value type.
 
 ---
 
