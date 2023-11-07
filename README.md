@@ -157,35 +157,35 @@ Write a function that receives a string value. The function determines the type 
 
 ---
 
-### 19- Square exponent [Solution]()
+### 19- Square exponent [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/19_Square%20exponent.js)
 
 ##### Challenge Description
 Write a function that receives an integer. The function returns the exponent squared of this number.
 
 ---
 
-### 20- My position is on the integer line [Solution]()
+### 20- My position is on the integer line [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/20_position_on_integer_line.js)
 
 ##### Challenge Description
 Write a function that receives an integer and determines whether the returned value is less than, greater than, or equal to zero. The function returns a string that expresses the status of the sent value.
 
 ---
 
-### 21- Repeat text [Solution]()
+### 21- Repeat text [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/21_Repeat_text.js)
 
 ##### Challenge Description
 Write a function that receives two values, a string and a positive integer. The function iterates the entered text according to the number passed.
 
 ---
 
-### 22- Find element in array [Solution]()
+### 22- Find element in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/22_Find_element_in_array.js)
 
 ##### Challenge Description
 Write a function that receives a text value and a character. The function searches for the first index matching the entered character and returns the index number for that character. The function returns -1 if there is no match.
 
 ---
 
-### 23- Last element in array [Solution]()
+### 23- Last element in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/23_Last_element_in_array.js)
 
 ##### Challenge Description
 
@@ -193,7 +193,7 @@ Write a function that receives an array of type integer. The function returns th
 
 ---
 
-### 24- Delete element in array [Solution]()
+### 24- Delete element in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/24_Delete_element_in_array.js)
 
 ##### Challenge Description
 
