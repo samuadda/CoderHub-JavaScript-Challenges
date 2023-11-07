@@ -122,6 +122,7 @@ Write a function that receives two string values. The function combines the two 
 ##### Challenge Description
 
 Write a function that receives two values, the first is an integer and the second is a string. The function adds the word Hi or Bye to the entered name so that Hi = 1 and Bye = 0.
+
 ---
 
 ### 15- Verify text in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/15_Verify_text_in_array.js)
@@ -156,43 +157,84 @@ Write a function that receives a string value. The function determines the type 
 
 ---
 
-### 1- rectangle area [Solution]()
+### 19- Square exponent [Solution]()
+
+##### Challenge Description
+Write a function that receives an integer. The function returns the exponent squared of this number.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 20- My position is on the integer line [Solution]()
+
+##### Challenge Description
+Write a function that receives an integer and determines whether the returned value is less than, greater than, or equal to zero. The function returns a string that expresses the status of the sent value.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 21- Repeat text [Solution]()
+
+##### Challenge Description
+Write a function that receives two values, a string and a positive integer. The function iterates the entered text according to the number passed.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 22- Find element in array [Solution]()
+
+##### Challenge Description
+Write a function that receives a text value and a character. The function searches for the first index matching the entered character and returns the index number for that character. The function returns -1 if there is no match.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 23- Last element in array [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of type integer. The function returns the value of the last element in the array.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 24- Delete element in array [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two values, the first an array of type integer and the second a non-negative integer. The function deletes the element that contains the same index number that was passed to the function from the array and returns a new array resulting from the deletion operation.
 
 ---
 
-### 1- rectangle area [Solution]()
+### 24- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
 
-### 1- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 25- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
 
-### 1- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 26- rectangle area [Solution]()
+
+##### Challenge Description
+
+
+### 27- rectangle area [Solution]()
+
+##### Challenge Description
+
+
+### 28- rectangle area [Solution]()
+
+##### Challenge Description
+
+
+### 29- rectangle area [Solution]()
+
+##### Challenge Description
+
+
+### 30- rectangle area [Solution]()
+
+##### Challenge Description
+
 
 ### 1- rectangle area [Solution]()
 
