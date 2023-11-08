@@ -201,11 +201,6 @@ Write a function that receives two values, the first an array of type integer an
 
 ---
 
-### 24- rectangle area [Solution]()
-
-##### Challenge Description
-
-
 ### 25- rectangle area [Solution]()
 
 ##### Challenge Description
@@ -236,23 +231,28 @@ Write a function that receives two values, the first an array of type integer an
 ##### Challenge Description
 
 
-### 1- rectangle area [Solution]()
+### 31- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
 
-### 1- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 32- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 33- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 34- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 35- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 36- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### 37- rectangle area [Solution]()
+
+### 38- rectangle area [Solution]()
+
+### 39- rectangle area [Solution]()
+
+### 40- rectangle area [Solution]()
 
 ### 1- rectangle area [Solution]()
 
