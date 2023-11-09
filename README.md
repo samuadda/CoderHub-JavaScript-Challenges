@@ -201,34 +201,55 @@ Write a function that receives two values, the first an array of type integer an
 
 ---
 
-### 25- rectangle area [Solution]()
+### 25- Divide by 5 [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an integer. The function checks whether a number is divisible by 5 or not by returning true if it is divisible, and false otherwise.
 
-### 26- rectangle area [Solution]()
+---
 
-##### Challenge Description
-
-
-### 27- rectangle area [Solution]()
+### 26- Check empty string [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives a string value. The function checks whether a text value is empty or not by returning true if there is empty text and false otherwise.
 
-### 28- rectangle area [Solution]()
+---
+
+
+### 27- Equal numbers [Solution]()
+
+##### Challenge Description
+
+Write a function that accepts two integers. The function checks the equality of numbers, returning true if the numbers are equal, and false if the numbers are not equal.
+
+---
+
+
+### 28- Inverted value [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an integer and returns a boolean value. It returns true if it is an inverted number and false otherwise.
 
-### 29- rectangle area [Solution]()
+---
+
+### 29- Compare strings length [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two string values. This function compares the number of text digits for each of these two entries and then returns the larger number of digits.
+
+---
+
+### 30- Subtract two numbers [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives two integer numbers, and then the function returns the subtraction of these two numbers.
 
-### 30- rectangle area [Solution]()
-
-##### Challenge Description
+---
 
 
 ### 31- rectangle area [Solution]()
