@@ -201,7 +201,7 @@ Write a function that receives two values, the first an array of type integer an
 
 ---
 
-### 25- Divide by 5 [Solution]()
+### 25- Divide by 5 [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/25_Divide_by_5.js)
 
 ##### Challenge Description
 
@@ -209,7 +209,7 @@ Write a function that receives an integer. The function checks whether a number 
 
 ---
 
-### 26- Check empty string [Solution]()
+### 26- Check empty string [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/26_Check%20_empty_string.js)
 
 ##### Challenge Description
 
@@ -218,7 +218,7 @@ Write a function that receives a string value. The function checks whether a tex
 ---
 
 
-### 27- Equal numbers [Solution]()
+### 27- Equal numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/27_Equal_numbers.js)
 
 ##### Challenge Description
 
@@ -227,7 +227,7 @@ Write a function that accepts two integers. The function checks the equality of 
 ---
 
 
-### 28- Inverted value [Solution]()
+### 28- Inverted value [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/28_Inverted_value.js)
 
 ##### Challenge Description
 
@@ -235,7 +235,7 @@ Write a function that receives an integer and returns a boolean value. It return
 
 ---
 
-### 29- Compare strings length [Solution]()
+### 29- Compare strings length [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/29_Compare_strings_length.js)
 
 ##### Challenge Description
 
@@ -243,7 +243,7 @@ Write a function that receives two string values. This function compares the num
 
 ---
 
-### 30- Subtract two numbers [Solution]()
+### 30- Subtract two numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/30_Subtract_two_numbers.js)
 
 ##### Challenge Description
 
