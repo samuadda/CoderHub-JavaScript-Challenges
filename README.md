@@ -252,7 +252,7 @@ Write a function that receives two integer numbers, and then the function return
 ---
 
 
-### 31- Odd numbers addition in array [Solution]()
+### 31- Odd numbers addition in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/31_odd_numbers_addition_in_array.js)
 
 ##### Challenge Description
 
@@ -260,33 +260,33 @@ Write a function that receives an integer array. The function adds only odd numb
 
 ---
 
-### 32- The remainder of dividing two numbers [Solution]()
+### 32- The remainder of dividing two numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/32_the_remainder_of_dividing_nums.js)
 
 ##### Challenge Description
 Write a function that receives two numbers, the first number represents an integer and the second number also represents an integer, then returns the remainder of these two numbers.
 
 ---
 
-### 33- Even numbers addition in array [Solution]()
+### 33- Even numbers addition in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/33_even_numbers_addition_in_array.js)
 
 ##### Challenge Description
 Write a function that receives an integer array. The function adds even numbers only and returns the result as an integer.
 
 ---
-### 34- Merge two strings [Solution]()
+### 34- Merge two strings [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/34_Merge_two_strings.js)
 
 ##### Challenge Description
 Write a function that takes two string values, sums them, and returns them as a single space-separated string value.
 
 ---
-### 35- Print series of numbers [Solution]()
+### 35- Print series of numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/35_Print_series_of_numbers.js)
 
 ##### Challenge Description
 Write a function that receives a number of type integer, and the function prints numbers from zero to the same number entered as a text value of type string.
 
 ---
 
-### 36- Digits countdown timer [Solution]()
+### 36- Digits countdown timer [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/36_Digits_countdown_timer.js)
 
 ##### Challenge Description
 Write a function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
