@@ -252,21 +252,46 @@ Write a function that receives two integer numbers, and then the function return
 ---
 
 
-### 31- rectangle area [Solution]()
+### 31- Odd numbers addition in array [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an integer array. The function adds only odd numbers and returns the result as an integer.
 
-### 32- rectangle area [Solution]()
+---
 
-### 33- rectangle area [Solution]()
+### 32- The remainder of dividing two numbers [Solution]()
 
-### 34- rectangle area [Solution]()
+##### Challenge Description
+Write a function that receives two numbers, the first number represents an integer and the second number also represents an integer, then returns the remainder of these two numbers.
 
-### 35- rectangle area [Solution]()
+---
 
-### 36- rectangle area [Solution]()
+### 33- Even numbers addition in array [Solution]()
 
+##### Challenge Description
+Write a function that receives an integer array. The function adds even numbers only and returns the result as an integer.
+
+---
+### 34- Merge two strings [Solution]()
+
+##### Challenge Description
+Write a function that takes two string values, sums them, and returns them as a single space-separated string value.
+
+---
+### 35- Print series of numbers [Solution]()
+
+##### Challenge Description
+Write a function that receives a number of type integer, and the function prints numbers from zero to the same number entered as a text value of type string.
+
+---
+
+### 36- Digits countdown timer [Solution]()
+
+##### Challenge Description
+Write a function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
+
+---
 ### 37- rectangle area [Solution]()
 
 ### 38- rectangle area [Solution]()
