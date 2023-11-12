@@ -160,6 +160,7 @@ Write a function that receives a string value. The function determines the type 
 ### 19- Square exponent [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/19_Square%20exponent.js)
 
 ##### Challenge Description
+
 Write a function that receives an integer. The function returns the exponent squared of this number.
 
 ---
@@ -167,6 +168,7 @@ Write a function that receives an integer. The function returns the exponent squ
 ### 20- My position is on the integer line [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/20_position_on_integer_line.js)
 
 ##### Challenge Description
+
 Write a function that receives an integer and determines whether the returned value is less than, greater than, or equal to zero. The function returns a string that expresses the status of the sent value.
 
 ---
@@ -174,6 +176,7 @@ Write a function that receives an integer and determines whether the returned va
 ### 21- Repeat text [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/21_Repeat_text.js)
 
 ##### Challenge Description
+
 Write a function that receives two values, a string and a positive integer. The function iterates the entered text according to the number passed.
 
 ---
@@ -181,6 +184,7 @@ Write a function that receives two values, a string and a positive integer. The 
 ### 22- Find element in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/22_Find_element_in_array.js)
 
 ##### Challenge Description
+
 Write a function that receives a text value and a character. The function searches for the first index matching the entered character and returns the index number for that character. The function returns -1 if there is no match.
 
 ---
@@ -217,7 +221,6 @@ Write a function that receives a string value. The function checks whether a tex
 
 ---
 
-
 ### 27- Equal numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/27_Equal_numbers.js)
 
 ##### Challenge Description
@@ -225,7 +228,6 @@ Write a function that receives a string value. The function checks whether a tex
 Write a function that accepts two integers. The function checks the equality of numbers, returning true if the numbers are equal, and false if the numbers are not equal.
 
 ---
-
 
 ### 28- Inverted value [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/28_Inverted_value.js)
 
@@ -251,7 +253,6 @@ Write a function that receives two integer numbers, and then the function return
 
 ---
 
-
 ### 31- Odd numbers addition in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/31_odd_numbers_addition_in_array.js)
 
 ##### Challenge Description
@@ -263,6 +264,7 @@ Write a function that receives an integer array. The function adds only odd numb
 ### 32- The remainder of dividing two numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/32_the_remainder_of_dividing_nums.js)
 
 ##### Challenge Description
+
 Write a function that receives two numbers, the first number represents an integer and the second number also represents an integer, then returns the remainder of these two numbers.
 
 ---
@@ -270,18 +272,23 @@ Write a function that receives two numbers, the first number represents an integ
 ### 33- Even numbers addition in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/33_even_numbers_addition_in_array.js)
 
 ##### Challenge Description
+
 Write a function that receives an integer array. The function adds even numbers only and returns the result as an integer.
 
 ---
+
 ### 34- Merge two strings [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/34_Merge_two_strings.js)
 
 ##### Challenge Description
+
 Write a function that takes two string values, sums them, and returns them as a single space-separated string value.
 
 ---
+
 ### 35- Print series of numbers [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/35_Print_series_of_numbers.js)
 
 ##### Challenge Description
+
 Write a function that receives a number of type integer, and the function prints numbers from zero to the same number entered as a text value of type string.
 
 ---
@@ -289,20 +296,46 @@ Write a function that receives a number of type integer, and the function prints
 ### 36- Digits countdown timer [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/36_Digits_countdown_timer.js)
 
 ##### Challenge Description
+
 Write a function that receives an integer. The function returns numbers descending from the entered number to the value 0 as a string separated by a space.
 
 ---
-### 37- rectangle area [Solution]()
 
-### 38- rectangle area [Solution]()
+### 37- Odd or even number [Solution]()
 
-### 39- rectangle area [Solution]()
+##### Challenge Description
 
-### 40- rectangle area [Solution]()
+---
 
-### 1- rectangle area [Solution]()
+### 38- Pass the exponent value [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
+
+---
+
+### 39- Cubic exponent [Solution]()
+
+##### Challenge Description
+
+---
+
+### 40- Matching two arrays [Solution]()
+
+##### Challenge Description
+
+---
+
+### 41- Reverse case [Solution]()
+
+##### Challenge Description
+
+---
+
+### 42- Number factorial [Solution]()
+
+##### Challenge Description
+
+---
 
 ### 1- rectangle area [Solution]()
 
