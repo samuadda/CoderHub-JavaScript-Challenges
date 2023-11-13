@@ -2,7 +2,7 @@
 
 # CoderHub-JavaScript-Challenges
 
-Welcome to my solutions to JavaScript challenges repository on the web site [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to the Easy mode JavaScript challenges and exercises,
+Welcome to my solutions to JavaScript challenges repository on the website [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to the Easy mode JavaScript challenges and exercises,
 Feel free to explore the challenges and check out the solutions.
 
 ## Challenges
@@ -337,11 +337,15 @@ Write a function that receives an integer. The function returns the exponent cub
 
 ##### Challenge Description
 
+Write a function that receives two arrays of type string and returns true or false depending on whether all the words in array2 match the words in array1.
+
 ---
 
-### 42- Number factorial [Solution]()
+### 42- Calculate character repetition [Solution]()
 
 ##### Challenge Description
+
+Write a function that receives two variables: the first is a text value of type string, and the second is a character of type string. The function counts the frequency of the character entered from the text value, then the function returns the result of type integer.
 
 ---
 
