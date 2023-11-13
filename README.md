@@ -2,7 +2,7 @@
 
 # CoderHub-JavaScript-Challenges
 
-Welcome to my solutions to JavaScript challenges repository on the web site [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to the Easy mode JavaScript challenges and exercises,
+Welcome to my solutions to JavaScript challenges repository on the website [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to the Easy mode JavaScript challenges and exercises,
 Feel free to explore the challenges and check out the solutions.
 
 ## Challenges
@@ -305,35 +305,47 @@ Write a function that receives an integer. The function returns numbers descendi
 
 ##### Challenge Description
 
+Write a function that receives a number of type integer. The function returns a value of type string that indicates whether the number is even or odd.
+
 ---
 
 ### 38- Pass the exponent value [Solution]()
 
 ##### Challenge Description
 
----
-
-### 39- Cubic exponent [Solution]()
-
-##### Challenge Description
+Write a function that receives two integers, the first value representing the number and the second value representing the exponent. The function calculates the exponent of that number and returns the result.
 
 ---
 
-### 40- Matching two arrays [Solution]()
+### 39- Check letter case [Solution]()
 
 ##### Challenge Description
+
+Write a function that receives text of type string. The function checks whether all letters have the same case sensitivity in the entered word or not. The function then returns the result of type boolean.
 
 ---
 
-### 41- Reverse case [Solution]()
+### 40- Cubic exponent [Solution]()
 
 ##### Challenge Description
+
+Write a function that receives an integer. The function returns the exponent cube of this number.
 
 ---
 
-### 42- Number factorial [Solution]()
+### 41- Matching to arrays [Solution]()
 
 ##### Challenge Description
+
+Write a function that receives two arrays of type string and returns true or false depending on whether all the words in array2 match the words in array1.
+
+---
+
+### 42- Calculate character repetition [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two variables: the first is a text value of type string, and the second is a character of type string. The function counts the frequency of the character entered from the text value, then the function returns the result of type integer.
 
 ---
 
