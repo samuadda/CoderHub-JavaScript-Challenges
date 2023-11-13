@@ -301,7 +301,7 @@ Write a function that receives an integer. The function returns numbers descendi
 
 ---
 
-### 37- Odd or even number [Solution]()
+### 37- Odd or even number [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/37_Odd_or_even_number.js)
 
 ##### Challenge Description
 
@@ -309,7 +309,7 @@ Write a function that receives a number of type integer. The function returns a 
 
 ---
 
-### 38- Pass the exponent value [Solution]()
+### 38- Pass the exponent value [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/38_Pass_the_exponent_value.js)
 
 ##### Challenge Description
 
@@ -317,7 +317,7 @@ Write a function that receives two integers, the first value representing the nu
 
 ---
 
-### 39- Check letter case [Solution]()
+### 39- Check letter case [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/39_Check_letter_case.js)
 
 ##### Challenge Description
 
@@ -325,7 +325,7 @@ Write a function that receives text of type string. The function checks whether 
 
 ---
 
-### 40- Cubic exponent [Solution]()
+### 40- Cubic exponent [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/40_Cubic_exponent.js)
 
 ##### Challenge Description
 
@@ -333,7 +333,7 @@ Write a function that receives an integer. The function returns the exponent cub
 
 ---
 
-### 41- Matching to arrays [Solution]()
+### 41- Matching to arrays [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/41_Matching_to_arrays.js)
 
 ##### Challenge Description
 
@@ -341,7 +341,7 @@ Write a function that receives two arrays of type string and returns true or fal
 
 ---
 
-### 42- Calculate character repetition [Solution]()
+### 42- Calculate character repetition [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/42_Calculate_character_repetition.js)
 
 ##### Challenge Description
 
