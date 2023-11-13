@@ -305,27 +305,35 @@ Write a function that receives an integer. The function returns numbers descendi
 
 ##### Challenge Description
 
+Write a function that receives a number of type integer. The function returns a value of type string that indicates whether the number is even or odd.
+
 ---
 
 ### 38- Pass the exponent value [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives two integers, the first value representing the number and the second value representing the exponent. The function calculates the exponent of that number and returns the result.
+
 ---
 
-### 39- Cubic exponent [Solution]()
+### 39- Check letter case [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives text of type string. The function checks whether all letters have the same case sensitivity in the entered word or not. The function then returns the result of type boolean.
+
 ---
 
-### 40- Matching two arrays [Solution]()
+### 40- Cubic exponent [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an integer. The function returns the exponent cube of this number.
+
 ---
 
-### 41- Reverse case [Solution]()
+### 41- Matching to arrays [Solution]()
 
 ##### Challenge Description
 
