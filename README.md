@@ -349,14 +349,14 @@ Write a function that receives two variables: the first is a text value of type 
 
 ---
 
-### 43- Reverse letter case [Solution]()
+### 43- Reverse letter case [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/43_Reverse_letter_case.js)
 
 ##### Challenge Description
 Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa, and then returns a value of type string.
 
 ---
 
-### 44- Number factorial [Solution]()
+### 44- Number factorial [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/44_Number_factorial.js)
 
 ##### Challenge Description
 
@@ -364,7 +364,7 @@ Write a function that receives an integer, and the function returns the factoria
 
 ---
 
-### 45- Define the mathematical process [Solution]()
+### 45- Define the mathematical process [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/45_Define_the_mathematical_process.js)
 
 ##### Challenge Description
 
@@ -377,7 +377,7 @@ Write a function that receives two integer variables. The function chooses the a
 
 ---
 
-### 46- First number from the left [Solution]()
+### 46- First number from the left [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/46_First_number_from_the_left.js)
 
 ##### Challenge Description
 
@@ -385,7 +385,7 @@ Write a function that receives a text value of type string. The function extract
 
 ---
 
-### 47- Replace "The" [Solution]()
+### 47- Replace "The" [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/47_Replace_The.js)
 
 ##### Challenge Description
 
@@ -393,7 +393,7 @@ Write a function that receives a text value of type string. The function replace
 
 ---
 
-### 48- Perimeter of a parallelogram [Solution]()
+### 48- Perimeter of a parallelogram [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/48_Perimeter_of_parallelogram.js)
 
 ##### Challenge Description
 
