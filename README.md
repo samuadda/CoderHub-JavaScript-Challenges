@@ -349,16 +349,63 @@ Write a function that receives two variables: the first is a text value of type 
 
 ---
 
-### 1- rectangle area [Solution]()
+### 43- Reverse letter case [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
+Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa, and then returns a value of type string.
 
-### 1- rectangle area [Solution]()
+---
 
-### 1- rectangle area [Solution]()
+### 44- Number factorial [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
 
+Write a function that receives an integer, and the function returns the factorial of the entered number.
+
+---
+
+### 45- Define the mathematical process [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two integer variables. The function chooses the appropriate mathematical operation that leads to the number 24, and then returns the result of the string type, which explains the type of mathematical operation.
+   "divided"
+   "multiplied"
+   "added"
+   "subtracted"
+   "None"
+
+---
+
+### 46- First number from the left [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a text value of type string. The function extracts the first leftmost number, then the function returns the result of type integer.
+
+---
+
+### 47- Replace "The" [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a text value of type string. The function replaces the with a or an according to the English rule, then returns the result of type string.
+
+---
+
+### 48- Perimeter of a parallelogram [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two decimal numbers representing the side length and base of the parallelogram. The function calculates the perimeter of the parallelogram and returns the result.
+
+---
+
+### 47- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
 ### 1- rectangle area [Solution]()
 
 ### 1- rectangle area [Solution]()
