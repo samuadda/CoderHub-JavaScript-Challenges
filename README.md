@@ -401,11 +401,50 @@ Write a function that receives two decimal numbers representing the side length 
 
 ---
 
-### 47- rectangle area [Solution]()
+### 49- rectangle area [Solution]()
 
 ##### Challenge Description
 
 ---
-### 1- rectangle area [Solution]()
+### 50- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+##### Challenge Description
+
+---
+
+### 51- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
+### 52- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
+### 51- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
+### 53- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
+### 54- rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
+### - rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
