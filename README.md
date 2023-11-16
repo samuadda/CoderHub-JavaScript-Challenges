@@ -401,42 +401,54 @@ Write a function that receives two decimal numbers representing the side length 
 
 ---
 
-### 49- rectangle area [Solution]()
+### 49- The square root [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives a decimal number. The function calculates its square root and returns the result.
+
 ---
-### 50- rectangle area [Solution]()
+### 50- The cube root [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an integer. The function finds its cube root and returns the result.
+
 ---
 
-### 51- rectangle area [Solution]()
+### 51- Merge two arrays [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives two arrays consisting of ordered integers. This function merges the two arrays into one array in an ordered manner and then returns them.
+
 ---
 
-### 52- rectangle area [Solution]()
+### 52- Delete similar elements in array [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an array of type integer. The function deletes similar elements in the same array and returns an array of type integer.
+
 ---
 
-### 51- rectangle area [Solution]()
+### 53- Root as per condition [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives two numbers, the first is an integer and the second is a decimal number that represents the square root of this number. The function checks whether the square root is equal to the entered number. If the result is correct, the function returns the result. Otherwise, the function returns the number 0.
+
 ---
 
-### 53- rectangle area [Solution]()
+### 54- The circumference of the rhombus [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives a float number representing the side length of the rhombus. The function calculates the perimeter of the rhombus and returns its result.
+
 ---
 
-### 54- rectangle area [Solution]()
+### 55- rectangle area [Solution]()
 
 ##### Challenge Description
 
