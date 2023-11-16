@@ -349,14 +349,14 @@ Write a function that receives two variables: the first is a text value of type 
 
 ---
 
-### 43- Reverse letter case [Solution]()
+### 43- Reverse letter case [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/43_Reverse_letter_case.js)
 
 ##### Challenge Description
 Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa, and then returns a value of type string.
 
 ---
 
-### 44- Number factorial [Solution]()
+### 44- Number factorial [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/44_Number_factorial.js)
 
 ##### Challenge Description
 
@@ -364,7 +364,7 @@ Write a function that receives an integer, and the function returns the factoria
 
 ---
 
-### 45- Define the mathematical process [Solution]()
+### 45- Define the mathematical process [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/45_Define_the_mathematical_process.js)
 
 ##### Challenge Description
 
@@ -377,7 +377,7 @@ Write a function that receives two integer variables. The function chooses the a
 
 ---
 
-### 46- First number from the left [Solution]()
+### 46- First number from the left [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/46_First_number_from_the_left.js)
 
 ##### Challenge Description
 
@@ -385,7 +385,7 @@ Write a function that receives a text value of type string. The function extract
 
 ---
 
-### 47- Replace "The" [Solution]()
+### 47- Replace "The" [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/47_Replace_The.js)
 
 ##### Challenge Description
 
@@ -393,7 +393,7 @@ Write a function that receives a text value of type string. The function replace
 
 ---
 
-### 48- Perimeter of a parallelogram [Solution]()
+### 48- Perimeter of a parallelogram [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/48_Perimeter_of_parallelogram.js)
 
 ##### Challenge Description
 
@@ -401,11 +401,62 @@ Write a function that receives two decimal numbers representing the side length 
 
 ---
 
-### 47- rectangle area [Solution]()
+### 49- The square root [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a decimal number. The function calculates its square root and returns the result.
+
+---
+### 50- The cube root [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an integer. The function finds its cube root and returns the result.
+
+---
+
+### 51- Merge two arrays [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two arrays consisting of ordered integers. This function merges the two arrays into one array in an ordered manner and then returns them.
+
+---
+
+### 52- Delete similar elements in array [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of type integer. The function deletes similar elements in the same array and returns an array of type integer.
+
+---
+
+### 53- Root as per condition [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two numbers, the first is an integer and the second is a decimal number that represents the square root of this number. The function checks whether the square root is equal to the entered number. If the result is correct, the function returns the result. Otherwise, the function returns the number 0.
+
+---
+
+### 54- The circumference of the rhombus [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a float number representing the side length of the rhombus. The function calculates the perimeter of the rhombus and returns its result.
+
+---
+
+### 55- rectangle area [Solution]()
 
 ##### Challenge Description
 
 ---
-### 1- rectangle area [Solution]()
 
-### 1- rectangle area [Solution]()
+### - rectangle area [Solution]()
+
+##### Challenge Description
+
+---
+
