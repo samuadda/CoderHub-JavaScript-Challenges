@@ -401,14 +401,14 @@ Write a function that receives two decimal numbers representing the side length 
 
 ---
 
-### 49- The square root [Solution]()
+### 49- The square root [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/49_square_root.js)
 
 ##### Challenge Description
 
 Write a function that receives a decimal number. The function calculates its square root and returns the result.
 
 ---
-### 50- The cube root [Solution]()
+### 50- The cube root [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/50_The_cube_root.js)
 
 ##### Challenge Description
 
@@ -416,7 +416,7 @@ Write a function that receives an integer. The function finds its cube root and 
 
 ---
 
-### 51- Merge two arrays [Solution]()
+### 51- Merge two arrays [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/51_merge_two_arrays.js)
 
 ##### Challenge Description
 
@@ -424,7 +424,7 @@ Write a function that receives two arrays consisting of ordered integers. This f
 
 ---
 
-### 52- Delete similar elements in array [Solution]()
+### 52- Delete similar elements in array [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/52_Delete_similar_elements_in_array.js)
 
 ##### Challenge Description
 
@@ -432,7 +432,7 @@ Write a function that receives an array of type integer. The function deletes si
 
 ---
 
-### 53- Root as per condition [Solution]()
+### 53- Root as per condition [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/53_Root_as_per_condition.js)
 
 ##### Challenge Description
 
@@ -440,7 +440,7 @@ Write a function that receives two numbers, the first is an integer and the seco
 
 ---
 
-### 54- The circumference of the rhombus [Solution]()
+### 54- The circumference of the rhombus [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/54_The_circumference_of_the_rhombus.js)
 
 ##### Challenge Description
 
