@@ -27,7 +27,7 @@ Write a function that takes two string values and checks whether they are the sa
 
 ##### Challenge Description
 
-Write a function that receives text of type string. The function deletes the last character from the text and returns the text value after deletion.
+Write a function that receives the text of type string. The function deletes the last character from the text and returns the text value after deletion.
 
 ---
 
@@ -117,7 +117,7 @@ Write a function that receives two string values. The function combines the two 
 
 ---
 
-### 14- Add word in text [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/14_Add_word_in_text.js)
+### 14- Add word in the text [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/14_Add_word_in_text.js)
 
 ##### Challenge Description
 
@@ -321,7 +321,7 @@ Write a function that receives two integers, the first value representing the nu
 
 ##### Challenge Description
 
-Write a function that receives text of type string. The function checks whether all letters have the same case sensitivity in the entered word or not. The function then returns the result of type boolean.
+Write a function that receives the text of type string. The function checks whether all letters have the same case sensitivity in the entered word or not. The function then returns the result of type boolean.
 
 ---
 
@@ -352,7 +352,7 @@ Write a function that receives two variables: the first is a text value of type 
 ### 43- Reverse letter case [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/43_Reverse_letter_case.js)
 
 ##### Challenge Description
-Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa, and then returns a value of type string.
+Write a function that receives a value of type string. The function changes the case of letters by converting a lowercase letter to an uppercase letter and vice versa and then returns a value of type string.
 
 ---
 
@@ -381,7 +381,7 @@ Write a function that receives two integer variables. The function chooses the a
 
 ##### Challenge Description
 
-Write a function that receives a text value of type string. The function extracts the first leftmost number, then the function returns the result of type integer.
+Write a function that receives a text value of a type string. The function extracts the first leftmost number, then the function returns the result of the type integer.
 
 ---
 
@@ -389,7 +389,7 @@ Write a function that receives a text value of type string. The function extract
 
 ##### Challenge Description
 
-Write a function that receives a text value of type string. The function replaces the with a or an according to the English rule, then returns the result of type string.
+Write a function that receives a text value of a type string. The function replaces the with a or an according to the English rule, then returns the result of the type string.
 
 ---
 
@@ -448,13 +448,56 @@ Write a function that receives a float number representing the side length of th
 
 ---
 
-### 55- rectangle area [Solution]()
+### 55- The Average of arrays elements [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an array of type integer. The function calculates the average of the matrix and returns the result.
+
 ---
 
-### - rectangle area [Solution]()
+### 56- Count down by three [Solution]()
+
+##### Challenge Description
+Write a function that receives an integer. This function counts backward from that three-digit number all the way to zero and then returns an array of the even numbers for that countdown in ascending order. If the countdown contains no numbers (because the passed limit is 3 or less) the value [0] will be returned.
+
+---
+
+### 57- Half radius of the circle [Solution]()
+
+##### Challenge Description
+Write a function that receives a positive decimal number representing the circumference of the circle. The function calculates the radius and returns its result.
+
+Note: Substitute the constant pi with the value 3.14.
+
+---
+
+### 58- Circle area [Solution]()
+
+##### Challenge Description
+Write a function that receives a decimal number representing the radius of the circle. The function calculates the area of the circle and returns the result.
+
+Note: Substitute the constant pi with the value 3.14.
+
+---
+
+### 59- Area of a parallelogram [Solution]()
+
+##### Challenge Description
+Write a function that takes two decimal numbers, the base length and the height of the parallelogram. This function calculates the area of a parallelogram and returns its value.
+
+---
+
+### 60-Cone size [Solution]()
+
+##### Challenge Description
+Write a function that receives two decimal numbers representing the radius and height of a right cone. The function calculates the volume of the cone and returns the result.
+
+Note: Substitute the constant pi with 3.14.
+
+---
+
+### 61- rectangle area [Solution]()
 
 ##### Challenge Description
 
