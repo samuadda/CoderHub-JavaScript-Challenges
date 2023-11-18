@@ -448,7 +448,7 @@ Write a function that receives a float number representing the side length of th
 
 ---
 
-### 55- The Average of arrays elements [Solution]()
+### 55- The Average of arrays elements [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/55_The_Average_of_arrays_elements.js)
 
 ##### Challenge Description
 
@@ -456,14 +456,14 @@ Write a function that receives an array of type integer. The function calculates
 
 ---
 
-### 56- Count down by three [Solution]()
+### 56- Count down by three [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/56_Count_down_by_three.js)
 
 ##### Challenge Description
 Write a function that receives an integer. This function counts backward from that three-digit number all the way to zero and then returns an array of the even numbers for that countdown in ascending order. If the countdown contains no numbers (because the passed limit is 3 or less) the value [0] will be returned.
 
 ---
 
-### 57- Half radius of the circle [Solution]()
+### 57- Half radius of the circle [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/57_Half_radius_of_the_circle.js)
 
 ##### Challenge Description
 Write a function that receives a positive decimal number representing the circumference of the circle. The function calculates the radius and returns its result.
@@ -472,7 +472,7 @@ Note: Substitute the constant pi with the value 3.14.
 
 ---
 
-### 58- Circle area [Solution]()
+### 58- Circle area [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/58_Circle_area.js)
 
 ##### Challenge Description
 Write a function that receives a decimal number representing the radius of the circle. The function calculates the area of the circle and returns the result.
@@ -481,14 +481,14 @@ Note: Substitute the constant pi with the value 3.14.
 
 ---
 
-### 59- Area of a parallelogram [Solution]()
+### 59- Area of a parallelogram [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/59_Area_of_a_parallelogram.js)
 
 ##### Challenge Description
 Write a function that takes two decimal numbers, the base length and the height of the parallelogram. This function calculates the area of a parallelogram and returns its value.
 
 ---
 
-### 60-Cone size [Solution]()
+### 60-Cone size [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/60_Cone_size.js)
 
 ##### Challenge Description
 Write a function that receives two decimal numbers representing the radius and height of a right cone. The function calculates the volume of the cone and returns the result.
