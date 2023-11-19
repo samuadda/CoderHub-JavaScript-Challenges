@@ -502,7 +502,7 @@ Note: Substitute the constant pi with 3.14.
 
 ---
 
-### 61- Array sum [Solution]()
+### 61- Array sum [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/61_Array_sum.js)
 
 ##### Challenge Description
 
@@ -510,7 +510,7 @@ Write a function that receives an array of 4 numbers. The function calculates th
 
 ---
 
-### 62- Circumference of a circle [Solution]()
+### 62- Circumference of a circle [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/62_Circumference_of_circle.js)
 
 ##### Challenge Description
 
@@ -518,7 +518,7 @@ Write a function that receives a decimal number representing the radius of the c
 
 ---
 
-### 63- Prime numbers between two values [Solution]()
+### 63- Prime numbers between two values [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/63_Prime_numbers_between_two_values.js)
 
 ##### Challenge Description
 
@@ -526,7 +526,7 @@ Write a function that receives two numbers, both integers, and then the function
 
 ---
 
-### 64- Rhombus space [Solution]()
+### 64- Rhombus space [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/64_Rhombus_space.js)
 
 ##### Challenge Description
 
@@ -534,7 +534,7 @@ Write a function that receives two float numbers representing the length of the 
 
 ---
 
-### 65- Cumulative sum [Solution]()
+### 65- Cumulative sum [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/65_Cumulative_sum.js)
 
 ##### Challenge Description
 
@@ -542,7 +542,7 @@ Write a function that receives an array of type integer and returns the sum of a
 
 ---
 
-### 66- Arithmetic mean [Solution]()
+### 66- Arithmetic mean [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/66_Arithmetic_mean.js)
 
 ##### Challenge Description
 
