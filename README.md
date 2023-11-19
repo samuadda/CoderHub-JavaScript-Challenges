@@ -459,6 +459,7 @@ Write a function that receives an array of type integer. The function calculates
 ### 56- Count down by three [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/56_Count_down_by_three.js)
 
 ##### Challenge Description
+
 Write a function that receives an integer. This function counts backward from that three-digit number all the way to zero and then returns an array of the even numbers for that countdown in ascending order. If the countdown contains no numbers (because the passed limit is 3 or less) the value [0] will be returned.
 
 ---
@@ -466,6 +467,7 @@ Write a function that receives an integer. This function counts backward from th
 ### 57- Half radius of the circle [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/57_Half_radius_of_the_circle.js)
 
 ##### Challenge Description
+
 Write a function that receives a positive decimal number representing the circumference of the circle. The function calculates the radius and returns its result.
 
 Note: Substitute the constant pi with the value 3.14.
@@ -475,6 +477,7 @@ Note: Substitute the constant pi with the value 3.14.
 ### 58- Circle area [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/58_Circle_area.js)
 
 ##### Challenge Description
+
 Write a function that receives a decimal number representing the radius of the circle. The function calculates the area of the circle and returns the result.
 
 Note: Substitute the constant pi with the value 3.14.
@@ -484,6 +487,7 @@ Note: Substitute the constant pi with the value 3.14.
 ### 59- Area of a parallelogram [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/59_Area_of_a_parallelogram.js)
 
 ##### Challenge Description
+
 Write a function that takes two decimal numbers, the base length and the height of the parallelogram. This function calculates the area of a parallelogram and returns its value.
 
 ---
@@ -491,13 +495,62 @@ Write a function that takes two decimal numbers, the base length and the height 
 ### 60-Cone size [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/60_Cone_size.js)
 
 ##### Challenge Description
+
 Write a function that receives two decimal numbers representing the radius and height of a right cone. The function calculates the volume of the cone and returns the result.
 
 Note: Substitute the constant pi with 3.14.
 
 ---
 
-### 61- rectangle area [Solution]()
+### 61- Array sum [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of 4 numbers. The function calculates the sum of the elements of that array and returns the result. If one of the numbers in the matrix is equal to 7, all numbers after that number are not counted in the grand total.
+
+---
+
+### 62- Circumference of a circle [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a decimal number representing the radius of the circle. The function calculates the circumference of the circle and returns the result.
+
+---
+
+### 63- Prime numbers between two values [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two numbers, both integers, and then the function returns an array containing all the prime numbers between those two numbers.
+
+---
+
+### 64- Rhombus space [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two float numbers representing the length of the diagonal of the rhombus. The function calculates the area of the rhombus and returns its result.
+
+---
+
+### 65- Cumulative sum [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array of type integer and returns the sum of all the numbers and the number of elements in the array.
+
+---
+
+### 66- Arithmetic mean [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array consisting of integers. This function returns the arithmetic average value of these numbers.
+
+---
+
+### 67- rectangle area [Solution]()
 
 ##### Challenge Description
 
