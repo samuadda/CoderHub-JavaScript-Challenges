@@ -550,9 +550,39 @@ Write a function that receives an array consisting of integers. This function re
 
 ---
 
-### 67- rectangle area [Solution]()
+
+### 67- Add the # symbol to all array elements [Solution]()
 
 ##### Challenge Description
 
+Write a function that receives an array of type string. The function adds the # symbol to all elements of the array and returns the result as a text value.
+
 ---
+
+### 68- Number of array elements [Solution]()
+
+##### Challenge Description
+
+Write a function that receives an array consisting of integer integers, and then the function returns the number of elements of that array.
+
+---
+
+### 69- Text construction [Solution]()
+
+##### Challenge Description
+
+Write a function that receives a string value. The function constructs and returns a text value based on the entered value. By repeating letters in a specific number determined by the entered value. For example:
+4a means that the letter "a" must be repeated four times. The expected result is aaaa. The function creates the requested text by following these instructions, using the Last-In, FirstOut principle
+
+---
+
+### 70- The largest intersection number [Solution]()
+
+##### Challenge Description
+
+Write a function that receives two matrices and the function returns the largest number at which the two matrices intersect
+
+---
+
+
 
