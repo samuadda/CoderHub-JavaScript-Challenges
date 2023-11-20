@@ -551,7 +551,7 @@ Write a function that receives an array consisting of integers. This function re
 ---
 
 
-### 67- Add the # symbol to all array elements [Solution]()
+### 67- Add the # symbol to all array elements [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/67_Add_symbol.js)
 
 ##### Challenge Description
 
@@ -559,7 +559,7 @@ Write a function that receives an array of type string. The function adds the # 
 
 ---
 
-### 68- Number of array elements [Solution]()
+### 68- Number of array elements [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/68_Number_of_array_elements.js)
 
 ##### Challenge Description
 
@@ -567,7 +567,7 @@ Write a function that receives an array consisting of integer integers, and then
 
 ---
 
-### 69- Text construction [Solution]()
+### 69- Text construction [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/69_Text_construction.js)
 
 ##### Challenge Description
 
@@ -576,13 +576,10 @@ Write a function that receives a string value. The function constructs and retur
 
 ---
 
-### 70- The largest intersection number [Solution]()
+### 70- The largest intersection number [Solution](https://github.com/samuadda/CoderHub-JavaScript-Challenges/blob/main/JavaScript_easy_level/70_The_largest_intersection_number.js)
 
 ##### Challenge Description
 
 Write a function that receives two matrices and the function returns the largest number at which the two matrices intersect
 
 ---
-
-
-
