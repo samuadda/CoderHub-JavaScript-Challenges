@@ -2,7 +2,7 @@
 
 # CoderHub-JavaScript-Challenges
 
-Welcome to my solutions to JavaScript <img src="JavaScript-logo.png" alt="html-logo" width="15" height="15"> challenges repository on the website [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to the Easy mode JavaScript challenges and exercises,
+Welcome to my solutions to JavaScript <img src="JavaScript-logo.png" alt="html-logo" width="15" height="15"> challenges repository on the website [Coder Hub](https://coderhub.sa/), Here, you'll find solutions to JavaScript challenges and exercises,
 Feel free to explore the challenges and check out the solutions.
 
 ## Challenges
